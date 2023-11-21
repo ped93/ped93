@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mad Ped!
+
+🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso)
+
+🧰 I use `Python`, `Power Bi`, `PostgreSQL`, `Dax`
+
+⏮️ Previously also worked with: `Node.js` and `tRPC`
+
+📫 How to reach me: `Pedram.madah [@] gmail [dot] com`
 
 <!--
 **ped93/ped93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
